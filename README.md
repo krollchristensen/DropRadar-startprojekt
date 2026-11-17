@@ -4,10 +4,6 @@ Hvornår åbner billetsalget, udkommer et album eller starter næste sæson? Byg
 
 ## Kom i gang
 
-Pak ZIP-filen ud. Åbn mappen med `pom.xml` som Maven-projekt i IntelliJ med JDK 21 eller nyere. Start MySQL 8, kør hele `setup.sql` i Workbench, og kør `dk.zealand.dropradar.Main`. Forbindelsen ligger i `database/DatabaseConnection.java`. Eksemplet bruger den lokale øvelsesdatabase og login `root` / `root`. Ret konstanterne, hvis jeres lokale MySQL bruger en anden adgangskode eller port.
-
-Del skærm. Lad én kode, én følge vejledningen og én afprøve. Byt efter hver øvelse.
-
 ## Øvelse 1. Læs og forklar
 
 | Klasse | Ansvar |
