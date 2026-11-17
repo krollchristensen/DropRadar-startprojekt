@@ -8,7 +8,7 @@ public class Drop {
     private final String category;
     private final LocalDate date;
 
-    // Bruges, når repository læser et drop fra MySQL og oprette et Drop objekt.
+    // Bruges, når repository læser et drop fra MySQL og oprette et Drop objekt
     public Drop(Integer id, String name, String category, LocalDate date) {
         this.id = id;
         this.name = name;
